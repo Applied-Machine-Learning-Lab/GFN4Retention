@@ -65,7 +65,7 @@ Evaluation metrics and protocol
 
 **Return time** is the average time gap between the last request of the session and the first request of the session. 
 
-**User retention** is the reciprocal return time gap. (user return frequency)
+**User retention** is the average ratio of visiting the system again.
 
 ## 2.2 Training for GFN model
 

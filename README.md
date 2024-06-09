@@ -2,7 +2,7 @@
 
 🐧 Implementation of GFN4Retention on KuaiSim for Kuairand-Pure Dataset
 
-![Overview of GFN4Retention Framework](https://github.com/LZR-S/GFN4Retention/blob/main/GFN4Ret.png)
+![Overview of GFN4Retention Framework](https://github.com/LZR-S/GFN4Retention/blob/main/GFN4Ret.jpg)
 
 # 0.Setup
 
